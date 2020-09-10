@@ -1,2 +1,2 @@
 this is a distribute version console file
-Git is free Software
+Git is free Software distribute under GRL
