@@ -1,2 +1,2 @@
-this is a version console file
+this is a distribute version console file
 Git is free Software
